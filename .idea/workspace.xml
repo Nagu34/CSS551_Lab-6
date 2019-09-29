@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9627c3d0-7b5e-42e4-883b-b54153bc788e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_</find>
+      <find>remove</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1RIlVLGd3hDRQjyW9VkkQsc6blj" />
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ruthv\WebstormProjects\CS5551_Express_Tutorial\Weather App" />
+      <recent name="C:\Users\ruthv\WebstormProjects\CS5551_Express_Tutorial" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js (1)">
+    <configuration name="app.js (1)" type="NodeJSConfigurationType" temporary="true" path-to-js-file="$PROJECT_DIR$/../Lab-6/Note App/app.js" working-dir="$PROJECT_DIR$/../Lab-6/Note App">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" path-to-node="/usr/local/Cellar/node/12.9.1/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/Weather App">
+      <method v="2" />
+    </configuration>
+    <configuration name="helloworld.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../Lab-6/JS/helloworld.js" working-dir="$PROJECT_DIR$/../Lab-6/JS">
+      <method v="2" />
+    </configuration>
+    <configuration name="new_app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../Lab-6/Note App/new_app.js" working-dir="$PROJECT_DIR$/../Lab-6/Note App">
+      <method v="2" />
+    </configuration>
+    <configuration name="weather.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="weather.js" working-dir="$PROJECT_DIR$/Weather App/weather">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.weather.js" />
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.app.js (1)" />
+      <item itemvalue="Node.js.helloworld.js" />
+      <item itemvalue="Node.js.new_app.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.new_app.js" />
+        <item itemvalue="Node.js.helloworld.js" />
+        <item itemvalue="Node.js.weather.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9627c3d0-7b5e-42e4-883b-b54153bc788e" name="Default" comment="" />
+      <created>1547265410429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547265410429</updated>
+      <workItem from="1547265411777" duration="9144000" />
+      <workItem from="1569163765475" duration="7428000" />
+      <workItem from="1569362517827" duration="12546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
