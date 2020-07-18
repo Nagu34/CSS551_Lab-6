@@ -11,7 +11,7 @@
     "express": "^4.17.1"
   },
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "node": "^12.10.0",
     "yargs": "^14.0.0"
   },
